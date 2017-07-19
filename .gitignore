@@ -4,3 +4,8 @@ img/*
 js/*
 taizhang/Classes/*
 *.exe
+*.doc
+*.xlsx
+*.pdf
+*.jpg
+*.png
